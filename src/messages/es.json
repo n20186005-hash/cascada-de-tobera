@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Cascada de Tobera",
+    "description": "Guía completa de la Cascada de Tobera en Burgos. Conoce este lugar escénico, su ubicación, información de visita y consejos de viaje."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Cascada de Tobera",
+    "subtitle": "Lugar turístico · Burgos",
+    "rating": "4.7",
+    "reviewCount": "8,178 opiniones",
+    "type": "Lugar turístico",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre la Cascada de Tobera",
+    "description": "La Cascada de Tobera es uno de los lugares más impresionantes de la provincia de Burgos, en Castilla y León. Ubicada en un entorno natural privilegiado, esta cascada ofrece un espectáculo único de la naturaleza, siendo un destino favorito para los amantes del ecoturismo y el senderismo.",
+    "visitGuide": {
+      "title": "Consejos para la visita",
+      "items": [
+        "El acceso es gratuito y está abierto todo el año.",
+        "Ideal para rutas de senderismo y fotografía de naturaleza.",
+        "Se recomienda visitarla en primavera cuando el caudal es mayor."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Cañón de Tobera",
+        "Entorno natural protegido",
+        "Rutas de senderismo",
+        "Flora y fauna autóctona"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre la Cascada de Tobera",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contexto histórico",
+        "content": "La Cascada de Tobera ha sido un punto de referencia en la comarca de Las Merindades, Burgos, durante siglos. Su nombre proviene del lugar donde se ubica, siendo un elemento natural que ha moldeado la identidad de la zona."
+      },
+      {
+        "id": "layout",
+        "title": "Geografía y entorno",
+        "content": "La cascada se encuentra en un paraje natural excepcional, rodeada de vegetación autóctona y formaciones rocosas calcáreas. El agua cae desde una altura considerable, creando un espectáculo visual y sonoro único."
+      },
+      {
+        "id": "culture",
+        "title": "Importancia cultural",
+        "content": "Este lugar no solo es un atractivo turístico, sino también un símbolo de la identidad local. Forma parte de la oferta turística de la comarca y es promovido por la Diputación de Burgos y el Ayuntamiento de Frías."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecología y flora",
+        "content": "El entorno de la cascada alberga una rica biodiversidad, con especies vegetales propias del bosque de ribera y fauna típica de la zona montañosa de Burgos. Es un refugio natural de gran valor ecológico."
+      },
+      {
+        "id": "facilities",
+        "title": "Instalaciones y servicios",
+        "content": "En las inmediaciones se pueden encontrar áreas de descanso y miradores. El acceso está señalizado y existen paneles informativos sobre la geología y biología del lugar. Frías, el pueblo más cercano, ofrece servicios de hostelería y alojamiento."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Cascada de Tobera",
+    "type": "Tipo de atracción",
+    "typeValue": "Lugar turístico",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Localidad",
+    "cityValue": "Tobera, Burgos",
+    "googleRating": "Valoración Google",
+    "googleRatingValue": "4.7 (8,178)",
+    "address": "Dirección",
+    "addressValue": "C. San Vicente, 2, 09211 Tobera, Burgos, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "QM2W+22 Tobera, Spain"
+  },
+  "hours": {
+    "title": "Horario de visita",
+    "park": "Acceso al sitio",
+    "parkTime": "Abierto todo el año (24 horas)",
+    "bestTime": "Mejor época para visitar",
+    "bestTimeSpring": "Primavera: Mayor caudal de agua",
+    "bestTimeSummer": "Verano: Ideal para bañarse en el entorno",
+    "bestTimeAutumn": "Otoño: Colores espectaculares en el bosque",
+    "bestTimeWinter": "Invierno: Paisaje sereno y tranquilo",
+    "tip": "El acceso es libre. Se recomienda llevar calzado adecuado para caminar."
+  },
+  "tickets": {
+    "title": "Información de entrada",
+    "park": "Visita al sitio",
+    "parkPrice": "Entrada gratuita",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamiento disponible cerca (gratuito)",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "Autoguiado"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "fromCenter": "Desde Burgos ciudad",
+    "fromCenterDesc": "La cascada está a aproximadamente 1 hora en coche desde la ciudad de Burgos.",
+    "fromStation": "Desde la estación de autobuses",
+    "fromStationDesc": "Se puede tomar transporte público hacia Frías y luego caminar o tomar un taxi.",
+    "fromAirport": "Desde el aeropuerto",
+    "fromAirportDesc": "Desde el Aeropuerto de Burgos, se puede alquilar un coche o tomar un taxi hacia la zona.",
+    "publicTransport": "Transporte público",
+    "publicTransportDesc": "Conexiones en autobús desde Burgos hasta Frías, con trasbordo posible.",
+    "walking": "Caminando",
+    "walkingDesc": "Existen rutas de senderismo señalizadas desde Frías hasta la cascada.",
+    "driving": "En coche",
+    "drivingDesc": "Accesible en coche hasta el área recreativa cercana, con aparcamiento disponible."
+  },
+  "route": {
+    "title": "Ruta recomendada",
+    "overview": "Una caminata relajante por la naturaleza hasta la cascada.",
+    "steps": [
+      "Salida desde el área recreativa de Tobera",
+      "Seguir el sendero señalizado junto al río",
+      "Disfrutar de las vistas del cañón",
+      "Llegada a la Cascada de Tobera",
+      "Tiempo para fotos y descanso"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores lugares para fotos",
+    "spots": [
+      {
+        "title": "Mirador de la Cascada",
+        "description": "El mirador principal ofrece una vista panorámica excelente de la cascada, ideal para fotografía de paisaje.",
+        "location": "Zona superior",
+        "image": "/gallery/cascada-de-tobera-1.jpg"
+      },
+      {
+        "title": "Base de la Cascada",
+        "description": "Desde abajo, la cascada se ve imponente. Un lugar perfecto para fotos de naturaleza y retratos.",
+        "location": "Base del salto de agua",
+        "image": "/gallery/cascada-de-tobera-2.jpg"
+      },
+      {
+        "title": "Cañón de Tobera",
+        "description": "Las paredes rocosas del cañón crean un marco natural espectacular para fotografías.",
+        "location": "A lo largo del sendero",
+        "image": "/gallery/cascada-de-tobera-3.jpg"
+      },
+      {
+        "title": "Área Recreativa",
+        "description": "El área de descanso con mesas y sombra es ideal para fotos de grupo y disfrutar del entorno.",
+        "location": "Entrada al sitio",
+        "image": "/gallery/cascada-de-tobera-4.jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "Vistas escénicas de la Cascada de Tobera",
+    "captions": [
+      "Vista de la cascada",
+      "Caída de agua",
+      "Cañón de Tobera",
+      "Entorno natural",
+      "Vegetación autóctona",
+      "Vistas de verano",
+      "Otoño en el bosque",
+      "Paisaje invernal",
+      "Flores de primavera",
+      "Área recreativa",
+      "Árboles ornamentales",
+      "Atardecer",
+      "Mañana tranquila",
+      "Naturaleza abundante",
+      "Flora diversa",
+      "Paisaje del paraje",
+      "Senderos",
+      "Vista panorámica",
+      "Río Tobera"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos"
+  },
+  "reviews": {
+    "title": "Opiniones de visitantes",
+    "declaration": "Las opiniones de los visitantes se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Un lugar impresionante. La cascada es espectacular, vale mucho la pena la caminata. Un rincón mágico de Burgos."
+      },
+      {
+        "name": "Ana L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Un entorno natural precioso. El sonido del agua relaja mucho. Ideal para una escapada de un día desde Burgos."
+      },
+      {
+        "name": "Javier R.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "Muy recomendable. El sendero está bien señalizado y las vistas son preciosas. Llevad agua y calzado cómodo."
+      },
+      {
+        "name": "Elena G.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Como amante de la naturaleza, me encantó este lugar. Es un paraíso natural muy bien conservado."
+      },
+      {
+        "name": "Miguel T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Perfecto para una ruta en familia. El camino es accesible y los niños disfrutaron mucho viendo la cascada."
+      },
+      {
+        "name": "Rosa P.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Un remanso de paz comparado con el bullicio de la ciudad. La naturaleza en estado puro."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el mapa",
+    "subtitle": "C. San Vicente, 2, 09211 Tobera, Burgos, Spain",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Cascada de Tobera",
+    "brandSubtitle": "Lugar turístico · Burgos",
+    "rights": "© 2026 Asociación Independiente de Investigación Turística de la Cascada de Tobera · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos y enlaces oficiales",
+    "officialLinks": {
+      "spainTourism": "Turismo de España",
+      "castillaLeon": "Turismo Castilla y León",
+      "burgos": "Turismo Burgos",
+      "frias": "Ayuntamiento de Frías",
+      "naturalHeritage": "Patrimonio Natural"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local u otras agencias oficiales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para ofrecerle una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "title": "Uso de cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción de Configuración de cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y protección de datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y uso del sitio",
+        "content": "Este sitio web proporciona información sobre la Cascada de Tobera, incluyendo turismo, transporte e historia. Todo el contenido es solo para referencia. El horario real de visita e información de entradas pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad intelectual",
+        "content": "El texto, las imágenes y el diseño de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede utilizar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Renuncia de responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no asumimos responsabilidad legal por cualquier retraso de viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Nos ayudan a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizadas para el seguimiento entre sitios y la entrega personalizada de anuncios."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre la Cascada de Tobera",
+    "text": "La Cascada de Tobera es un importante atractivo turístico natural en Burgos, Castilla y León, España, siendo un ejemplo perfecto de la belleza natural de la región. El área está gestionada por la Diputación de Burgos y el Ayuntamiento de Frías para la protección ecológica y la promoción turística."
+  }
+}
