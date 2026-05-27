@@ -40,6 +40,9 @@ export default function Footer() {
               <a href="https://patrimonionatural.org/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.naturalHeritage')}
               </a>
+              <a href="https://www.turismo.gal" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.galicia')}
+              </a>
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">

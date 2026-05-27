@@ -16,6 +16,21 @@ QM2W+22 Tobera, Spain
 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
 
 
+国家 / 地区：Spain
+地址行 1：C. San Vicente, 2
+地址行 2：Tobera
+城市：Burgos
+省 / 自治区 / 直辖市：País Vasco
+邮政编码：09211
+
+
+
+我们网站是 cascadadetobera.com
+检查下网站是否有错误
+
+
+
+
 首屏背景图要引用以下
 C:\Users\Administrator\Downloads\西班牙\cascada-de-tobera\public\gallery
 

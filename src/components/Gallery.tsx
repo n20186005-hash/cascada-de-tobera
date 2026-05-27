@@ -30,7 +30,7 @@ export default function Gallery() {
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
-  const [showAll, setShowAll] = useState(true);
+  const [showAll, setShowAll] = useState(false);
   const captions = (messages?.gallery?.captions || []) as string[];
 
   const galleryPhotos = photos.map((photo, i) => ({

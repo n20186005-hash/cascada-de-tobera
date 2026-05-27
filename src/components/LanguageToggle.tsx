@@ -33,7 +33,7 @@ export default function LanguageToggle() {
     if (next === locale) return;
 
     // Use next-intl router to navigate with locale handling
-    router.push(pathname, { locale: next });
+    router.replace(pathname, { locale: next });
   }
 
   return (
