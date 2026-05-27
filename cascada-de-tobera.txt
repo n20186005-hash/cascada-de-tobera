@@ -1,0 +1,121 @@
+你正在用（Next.js开发）
+为一个新景点【 Cascada de Tobera 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+cascada-de-tobera
+西班牙
+巴斯克自治区	Cascada de Tobera
+
+Cascada de Tobera
+4.7(8,178)
+旅游胜地
+
+C. San Vicente, 2, 09211 Tobera, Burgos, Spain
+QM2W+22 Tobera, Spain
+
+https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\西班牙\cascada-de-tobera\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+西班牙国家旅游局
+https://www.spain.info/
+卡斯蒂利亚-莱昂大区官方旅游局
+https://www.turismocastillayleon.com/
+布尔戈斯省官方旅游局
+https://turismoburgos.org/
+弗里亚斯市政府
+http://www.ciudaddefrias.es/
+卡斯蒂利亚-莱昂自然遗产专业数据库
+https://patrimonionatural.org/
+
+加利西亚旅游局
+https://www.turismo.gal
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/7X96TBmK29sVp9Wp7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+这是一处非常迷人的自然与人文景观！为您整理关于 **Cascada de Tobera（托韦拉瀑布）** 的完整官方资源链条。
+
+> **地理位置小提示：** 虽然 Tobera 在地理位置上非常靠近巴斯克自治区（País Vasco）的边界，但根据您提供的地址（Burgos, Spain）以及西班牙的实际行政区划，Tobera 位于 **卡斯蒂利亚-莱昂大区（Castilla y León）** 的布尔戈斯省（Burgos）。它在行政上是中世纪小城弗里亚斯（Frías）管辖的一个附属村落（Pedanía）。
+
+为了确保信息来源的绝对权威性，以下为您严格筛选的从国家级、大区级、省/市级到专业遗产的 **5个纯正官方政府及旅游局网站链条**：
+
+### 一、 国家级 (National Level)
+
+* **管理机构**：Turespaña (西班牙国家旅游局 / 工业与旅游部)
+* **官方平台**：Spain.info (西班牙国家官方旅游门户)
+* **官方链接**：[https://www.spain.info/](https://www.spain.info/)
+* **背景说明**：这是代表西班牙国家级别的最高文旅资源统筹平台。虽然瀑布这样的小型自然景观词条通常会合并在其所属的“Frías（弗里亚斯）”或“Las Merindades”地区介绍中，但它是获取西班牙国家级官方背书的初始源头。
+
+### 二、 大区级 (Regional Level)
+
+* **管理机构**：Junta de Castilla y León (卡斯蒂利亚-莱昂大区政府文化与旅游部)
+* **官方平台**：Turismo Castilla y León (卡斯蒂利亚-莱昂大区官方旅游局)
+* **官方链接**：[https://www.turismocastillayleon.com/](https://www.turismocastillayleon.com/)
+* **背景说明**：卡斯蒂利亚-莱昂是西班牙面积最大的自治大区。该官方网站直接负责统筹大区内的自然遗迹、历史遗址和乡村旅游规划，Tobera 瀑布群所属的官方大区旅游路线均由该机构制定。
+
+### 三、 省级 (Provincial Level)
+
+* **管理机构**：Diputación de Burgos (布尔戈斯省议会 / 省政府)
+* **官方平台**：Provincia de Burgos - Turismo (布尔戈斯省官方旅游局)
+* **官方链接**：[https://turismoburgos.org/](https://turismoburgos.org/)
+* **背景说明**：由省政府全资运营。该平台对省内的地貌景观进行了非常细致的划分，Tobera 瀑布（由于 Molinar 河流经形成的钙华地貌）是其北部地区（Las Merindades 县）重点推介的官方自然保护与徒步资源。
+
+### 四、 市级 / 地方行政级 (Municipal Level)
+
+* **管理机构**：Ayuntamiento de Frías (弗里亚斯市政府)
+* **官方平台**：Ciudad de Frías 官方网站
+* **官方链接**：[http://www.ciudaddefrias.es/](http://www.ciudaddefrias.es/)
+* **背景说明**：Tobera 是 Frías 市管辖的辖区。该市政府官网是管理瀑布、罗马桥、周边观景步道以及河谷圣玛丽亚隐修院（Ermita de Santa María de la Hoz）的最直接、最基层的行政官方机构。
+
+### 五、 专业自然与地质遗产数据库 (Professional Heritage Database)
+
+* **管理机构**：Fundación Patrimonio Natural de Castilla y León (大区政府环境部下属自然遗产基金会)
+* **官方平台**：Patrimonio Natural (卡斯蒂利亚-莱昂自然遗产专业数据库)
+* **官方链接**：[https://patrimonionatural.org/](https://patrimonionatural.org/)
+* **背景说明**：Tobera 瀑布位于 **Montes Obarenes-San Zadornil 自然公园** 的影响范围内。该数据库由官方设立的公共基金会运营，专门负责自然保护区、地质景观（Tobera 的名字即来源于其典型的“石灰华/钙华”地质）的官方专业归档、生态保护研究与监测。
+
+
+
+
+
+
